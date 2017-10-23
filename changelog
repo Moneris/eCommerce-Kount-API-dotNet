@@ -1,0 +1,9 @@
+Version 1.0.2
+	 - Removed support for merchant_ack, customer_agent and local_attributes
+	 - Added support for UDF
+
+Version 1.0.1
+	- Added support for data_key
+
+Version 1.0.0
+	- Initial Kount API release
